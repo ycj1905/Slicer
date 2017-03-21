@@ -1,6 +1,6 @@
 #修改網路找的切層 Opne Source
 
-新增了Dot功能: 讓stl可以依照 "Z軸以紅->紫" 的 "點呈現"。
+新增Dot button: 讓stl可以依照 "Z軸以紅->紫" 的 "點呈現"。
 
 # Main features
 - Browse or drag/drop STL file.
